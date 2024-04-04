@@ -20,4 +20,14 @@ let faculty = courses.toString();
 console.log(`courses are: , ${faculty instanceof Array}`)
 console.log("courses as string" + faculty);
 console.log(typeof faculty)
-console.log(faculty.toUpperCase())
+console.log(faculty.toUpperCase());
+
+
+let learners = new Array(2); //Undefined array
+
+learners[0] = 1;
+learners[1] = 2;
+learners[2] = 3;
+learners[3] = 4;
+learners[4] = 5;
+learners[5] = 6;
