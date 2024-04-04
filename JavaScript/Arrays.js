@@ -1,5 +1,5 @@
 let courses = ["Javascript","Java","Angular","React"];//Pre-defined array of courses
-courses.length = 3;
+courses.length = 4;
 
 courses[4] = "Typescript"
 courses[5] = "Vue"
