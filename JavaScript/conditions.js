@@ -14,4 +14,6 @@ if(pass_mark >= gpa && pass_mark <= 69) {
     console.log("You have passed with Examption!!")
 } else if(pass_mark >= dist && pass_mark <= 100 ) {
     console.log("You have passed with Distinction!!")
-} 
+} else if(pass_mark = 0) {
+    console.log("Did not write")
+}
