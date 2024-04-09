@@ -10,7 +10,7 @@ get getName() {
 }
 ,
 //Set method
-set changeName(newName) { //A parameter for re-assigning or pmapping new values
+set changeName(newName) { //A parameter for re-assigning or mapping new values
     this.firstName = newName;
 }
 }

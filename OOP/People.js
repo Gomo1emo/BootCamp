@@ -12,5 +12,5 @@ person.nationality = 'SA'
 
 for (let key in person) {
     console.log(key);
-    console.log(person[key]);
+    //console.log(person[key]);
 }
