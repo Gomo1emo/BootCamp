@@ -1,0 +1,6 @@
+//For ignoring directories and its subdirectories we use foward stash node_modules/**
+
+/nodes_modules?**
+
+//For files we use file name
+.DS_store
